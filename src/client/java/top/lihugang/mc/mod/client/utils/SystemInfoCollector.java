@@ -18,7 +18,7 @@ public class SystemInfoCollector {
                 new AbstractMap.SimpleEntry<>("OS", System.getProperty("os.name") + " " + System.getProperty("os.version"))
         );
         info.add(
-                new AbstractMap.SimpleEntry<>("Arch", System.getProperty("os.arch") + "w" + new SystemInfo().getOperatingSystem().getVersionInfo().getVersion())
+                new AbstractMap.SimpleEntry<>("Arch", System.getProperty("os.arch"))
         );
         info.add(
                 new AbstractMap.SimpleEntry<>("Java", System.getProperty("java.version"))
