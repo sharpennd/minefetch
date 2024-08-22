@@ -3,7 +3,7 @@ It is a mod to fetch Minecraft client information like neofetch.
 
 It supports Minecraft 1.16.5-1.21.x with **Fabric Loader** and **Fabric API**.  
 It supports Minecraft 1.21.x with **NeoForge**.  
-It supports Minecraft 1.20-1.21.x with **Quilt** and **Quilted Fabric API".
+It supports Minecraft 1.20-1.21.x with **Quilt** and **Quilted Fabric API**.
 
 It will support Forge as mod loader in the future.
 
